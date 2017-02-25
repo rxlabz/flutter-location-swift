@@ -1,8 +1,3 @@
-//
-// Created by rx on 25/02/2017.
-// Copyright (c) 2017 The Chromium Authors. All rights reserved.
-//
-
 import Foundation
 import CoreLocation
 import Flutter
